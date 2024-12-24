@@ -146,4 +146,5 @@ Feedstock Maintainers
 =====================
 
 * [@domdfcoding](https://github.com/domdfcoding/)
+* [@jan-janssen](https://github.com/jan-janssen/)
 
